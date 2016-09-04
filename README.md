@@ -25,4 +25,4 @@ Whats the point? This plugin was made for fun and is not intended to be used wit
 
 </ul>
 
-See [the wiki](https://github.com/nick-njstat/QBXMC/wiki/Commands) for more commands
+See [the wiki](#) for more commands
