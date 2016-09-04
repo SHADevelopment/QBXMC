@@ -1,4 +1,5 @@
-#<center>QBXMC </center>
+#
+<p align="center">QBXMC</p>
 <center>![Build](https://img.shields.io/badge/build-stable-brightgreen.svg) ![enter image description here](https://img.shields.io/badge/Bukkit%20Version-1.10.2%20Stable-blue.svg) </center>
 
 A minecraft plugin that seems innocent. Is displayed as a CommandPack but has some hidden features. They will now be lsited here.
